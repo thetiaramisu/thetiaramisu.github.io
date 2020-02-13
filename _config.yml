@@ -1,11 +1,11 @@
 # Site settings
-author: Tiara Hlaing
-title: 
+author: Tiara
+title: Tiara Hlaing
 header-img: img/home-bg.png
 email: tiara.hlaing@gmail.com
-copyright_name: Tiara Hlaing
+copyright_name: Tiara
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Journeying into the Deep
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  thetiaramisu
