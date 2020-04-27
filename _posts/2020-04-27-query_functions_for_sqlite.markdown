@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Query Functions for SQLite"
-date:       2020-04-27 09:17:13 +0000
+date:       2020-04-27 05:17:14 -0400
 permalink:  query_functions_for_sqlite
 ---
 
@@ -224,4 +224,4 @@ These were the results:
 
 Cohen's D showed us that there is a moderate effect size between the two means. On average, including a discounted product in the order increases the order volume by about 21 items.
 
-If you are interested in seeing my project, you can find the complete Jupyter Notebook [here](https://thetiaramisu.wordpress.com/2019/03/13/query-functions-for-sqlite/).
+If you are interested in seeing my project, you can find the complete Jupyter Notebook [here](https://github.com/thetiaramisu/dsc-2-final-project-online-ds-ft-011419).
