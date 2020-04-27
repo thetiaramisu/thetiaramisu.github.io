@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Helping People Isn't Limited to the Helping Professions"
-date:       2020-04-27 08:52:54 +0000
+date:       2020-04-27 04:52:55 -0400
 permalink:  helping_people_isnt_limited_to_the_helping_professions
 ---
 
